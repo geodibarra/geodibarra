@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @geodibarra
+- 👋 Hi, I’m @geodibarra, 8 years old
 - 👀 I’m interested in Web Development, Game Development
 - 🌱 I’m currently learning Python, HTML, Java, Javascript, C, C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me geodibarra@gmail.com
 
 <!---
